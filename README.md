@@ -37,7 +37,7 @@ After finishing writing our DAG tasks and pipeline, I can check the DAG descript
 ---
 ![](images/airflow_details.jpg)
 
-Double checking if my final processes of inserting data has been successfully accomplished by looking into our sql database
+Double checking if my final process of inserting data has been successfully accomplished by looking into our sql database
 
 ![](images/data_table.jpg)
 ![](images/data_row_count.jpg)
