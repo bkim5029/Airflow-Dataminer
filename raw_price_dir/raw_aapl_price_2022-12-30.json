@@ -1,0 +1,14 @@
+{
+    "candles": [
+        {
+            "open": 127.99,
+            "high": 130.4814,
+            "low": 127.73,
+            "close": 129.61,
+            "volume": 75703710,
+            "datetime": 1672293600000
+        }
+    ],
+    "symbol": "AAPL",
+    "empty": false
+}
