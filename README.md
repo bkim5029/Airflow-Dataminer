@@ -33,8 +33,9 @@ After starting Airflow webserver and scheduler, I have created a connection_id t
 
 After finishing writing our DAG tasks and pipeline, I can check the DAG description and test run my DAG in Airflow webserver
 
-![](images/airflow_details.jpg)
 ![](images/airflow_graph.jpg)
+---
+![](images/airflow_details.jpg)
 
 Double checking if my final processes of inserting data has been successfully accomplished by looking into our sql database
 
